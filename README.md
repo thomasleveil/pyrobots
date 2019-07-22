@@ -1,6 +1,8 @@
 
 # /!\ Work in progress /!\
 
+**Current status:** not working 
+
 
 # Python extension for Google Robots.txt Parser and Matcher Library
 
