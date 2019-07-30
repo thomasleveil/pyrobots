@@ -24,6 +24,6 @@ _This project depends on [Bazel](https://bazel.build/) as a build tool._
 ```sh
 git clone https://github.com/thomasleveil/pyrobots.git
 cd pyrobots
-bazel test module:pyrobots_test.py
+bazel test module:pyrobots_test
 
 ```
