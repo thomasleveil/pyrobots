@@ -19,6 +19,8 @@ Hopefully I did not copied over too much unrelevant code. PR are much welcome.
 
 ## Building
 
+_This project depends on [Bazel](https://bazel.build/) as a build tool._
+
 ```sh
 git clone https://github.com/thomasleveil/pyrobots.git
 cd pyrobots
